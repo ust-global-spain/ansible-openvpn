@@ -4,6 +4,8 @@
 openvpn_dns1: 8.8.8.8
 openvpn_dns2: 8.8.4.4
 openvpn_server_name: server
+vpn_protocol: udp
+vpn_port: 1194
 
 # Certificates vars
 openvpn_ca: ""
